@@ -17,7 +17,7 @@ import { Component, OnInit } from '@angular/core';
         
       </div>
       </div>
-      <!-- <div id="projects"></div> -->
+      <!-- <div id="projects"></div>dfdfd -->
     </section>
   
   `,
